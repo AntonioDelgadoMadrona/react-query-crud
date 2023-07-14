@@ -1,6 +1,6 @@
 React-Query-Crud_POC
 
-https://d33wubrfki0l68.cloudfront.net/16dffe0ef55260d76cf71be4613eb1e6747a710d/892bd/blog/static/e34c9bdb709f49c90b76af647160ca18/d2835/react-query.png
+![image](https://github.com/AntonioDelgadoMadrona/react-query-crud/assets/43788969/2844c2d0-fc74-482d-b4b1-206c8b7d4eda)
 
 DEFINITION
 
