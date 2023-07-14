@@ -1,0 +1,11 @@
+body {
+  background: #202020;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+.app-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}

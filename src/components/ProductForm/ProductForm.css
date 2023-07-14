@@ -1,0 +1,39 @@
+.productForm {
+  width: 100%;
+  padding: 20px;
+}
+
+.productForm > form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 500px;
+}
+
+.productForm label {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.productForm input {
+  width: -webkit-fill-available;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.productForm button {
+  padding: 10px 20px;
+  background-color: #3897f0;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.productForm button:hover {
+  background-color: #3897d0;
+}

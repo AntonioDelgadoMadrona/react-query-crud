@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Desktop",
+      "description": "A desktop computer.",
+      "price": 1500,
+      "inStock": true
+    },
+    {
+      "name": "Iphone 12",
+      "description": "El mejor",
+      "price": "1004",
+      "id": 4,
+      "inStock": true
+    },
+    {
+      "name": "Apple Mouse",
+      "description": "One expensive mouse",
+      "price": "299",
+      "id": 5,
+      "inStock": false
+    }
+  ]
+}
