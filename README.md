@@ -17,3 +17,5 @@ PERFORMANCE
 To run the project on port 5173 it's necessary go to the root of the project and execute "npm run dev". If you go to http://127.0.0.1:5173/, You will see the application.
 
 SCREENSHOTS
+
+<img width="1349" alt="image" src="https://github.com/AntonioDelgadoMadrona/react-query-crud/assets/43788969/9e7750f7-ffca-445b-929d-77c7dbd0ffdd">
